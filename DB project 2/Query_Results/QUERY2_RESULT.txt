@@ -1,0 +1,14 @@
+[
+  {
+    _id: ObjectId("611457ada21e349160e198c2"),
+    PNAME: 'ProductX',
+    PNUMBER: '1',
+    DNAME: 'Research',
+    employees: [
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'John', HOURS: '32.5' },
+      { EMP_LNAME: 'English', EMP_FNAME: 'Joyce', HOURS: '20.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '2.0' },
+      { EMP_LNAME: 'Carpenter', EMP_FNAME: 'Jisha', HOURS: '25.0' }
+    ]
+  }
+]

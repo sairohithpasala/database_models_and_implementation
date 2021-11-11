@@ -1,0 +1,26 @@
+[
+  {
+    _id: ObjectId("611457b44fcef8a01c2ceafd"),
+    EMP_LNAME: 'James',
+    EMP_FNAME: 'Jared',
+    DNAME: 'Software',
+    works_on: [ { PNAME: 'OperatingSystem', PNUMBER: '61', HOURS: '40.0' } ]
+  },
+  {
+    _id: ObjectId("611457b44fcef8a01c2ceaff"),
+    EMP_LNAME: 'James',
+    EMP_FNAME: 'John',
+    DNAME: 'Sales',
+    works_on: [ { PNAME: 'LaserPrinters', PNUMBER: '92', HOURS: '40.0' } ]
+  },
+  {
+    _id: ObjectId("611457b44fcef8a01c2ceb03"),
+    EMP_LNAME: 'English',
+    EMP_FNAME: 'Joyce',
+    DNAME: 'Research',
+    works_on: [
+      { PNAME: 'ProductX', PNUMBER: '1', HOURS: '20.0' },
+      { PNAME: 'ProductY', PNUMBER: '2', HOURS: '20.0' }
+    ]
+  }
+]

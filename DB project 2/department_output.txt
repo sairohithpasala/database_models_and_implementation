@@ -1,0 +1,90 @@
+_id:6113e6f28d221a7c216767c4
+DNAME:Research
+MANAGER_LNAME:5
+MGR_START_DATE:22-MAY-1978
+employees:[{'E_FNAME': 'Franklin', 'E_LNAME': 'Wong', 'SALARY': '40000'}, {'E_FNAME': 'John', 'E_LNAME': 'Smith', 'SALARY': '30000'}, {'E_FNAME': 'Ramesh', 'E_LNAME': 'Narayan', 'SALARY': '38000'}, {'E_FNAME': 'Joyce', 'E_LNAME': 'English', 'SALARY': '25000'}, {'E_FNAME': 'Michael', 'E_LNAME': 'Morgan', 'SALARY': '73500'}, {'E_FNAME': 'Andrea', 'E_LNAME': 'Sondrini', 'SALARY': '65000'}]
+_id:6113e6f28d221a7c216767c5
+DNAME:Administration
+MANAGER_LNAME:4
+MGR_START_DATE:01-JAN-1985
+employees:[{'E_FNAME': 'Jennifer', 'E_LNAME': 'Wallace', 'SALARY': '43000'}, {'E_FNAME': 'Alicia', 'E_LNAME': 'Zelaya', 'SALARY': '25000'}, {'E_FNAME': 'Ahmad', 'E_LNAME': 'Jabbar', 'SALARY': '25000'}, {'E_FNAME': 'Wilson', 'E_LNAME': 'Holmes', 'SALARY': '72500'}, {'E_FNAME': 'Cameron', 'E_LNAME': 'Thirteen', 'SALARY': '80000'}, {'E_FNAME': 'Richard', 'E_LNAME': 'Koelbel', 'SALARY': '85000'}]
+_id:6113e6f28d221a7c216767c6
+DNAME:Headquarters
+MANAGER_LNAME:1
+MGR_START_DATE:19-JUN-1971
+employees:[{'E_FNAME': 'James', 'E_LNAME': 'Borg', 'SALARY': '55000'}, {'E_FNAME': 'Jisha', 'E_LNAME': 'Carpenter', 'SALARY': '15000'}]
+_id:6113e6f28d221a7c216767c7
+DNAME:Software
+MANAGER_LNAME:6
+MGR_START_DATE:15-MAY-1999
+employees:[{'E_FNAME': 'Jared', 'E_LNAME': 'James', 'SALARY': '85000'}, {'E_FNAME': 'Jon', 'E_LNAME': 'Jones', 'SALARY': '45000'}, {'E_FNAME': 'Justin', 'E_LNAME': 'Mark', 'SALARY': '40000'}, {'E_FNAME': 'Brad', 'E_LNAME': 'Knight', 'SALARY': '44000'}, {'E_FNAME': 'Kim', 'E_LNAME': 'Grace', 'SALARY': '79000'}, {'E_FNAME': 'Jeff', 'E_LNAME': 'Chase', 'SALARY': '44000'}, {'E_FNAME': 'Nandita', 'E_LNAME': 'Ball', 'SALARY': '62000'}, {'E_FNAME': 'John', 'E_LNAME': 'Ed', 'SALARY': '30000'}, {'E_FNAME': 'Jose', 'E_LNAME': 'Barbara', 'SALARY': '35000'}, {'E_FNAME': 'Penny', 'E_LNAME': 'Wolowitz', 'SALARY': '17000'}, {'E_FNAME': 'Debra', 'E_LNAME': 'Hall', 'SALARY': '30000'}, {'E_FNAME': 'Jake', 'E_LNAME': 'Sheen', 'SALARY': '52000'}, {'E_FNAME': 'Cindy', 'E_LNAME': 'Burklow', 'SALARY': '45000'}, {'E_FNAME': 'Zach', 'E_LNAME': 'Geller', 'SALARY': '55000'}, {'E_FNAME': 'Alex', 'E_LNAME': 'Yu', 'SALARY': '50000'}, {'E_FNAME': 'Christina', 'E_LNAME': 'Hisel', 'SALARY': '45000'}]
+_id:6113e6f28d221a7c216767c8
+DNAME:Hardware
+MANAGER_LNAME:7
+MGR_START_DATE:15-MAY-1998
+employees:[{'E_FNAME': 'Alex', 'E_LNAME': 'Freed', 'SALARY': '89000'}, {'E_FNAME': 'Evan', 'E_LNAME': 'Wallis', 'SALARY': '92000'}, {'E_FNAME': 'Josh', 'E_LNAME': 'Zell', 'SALARY': '56000'}, {'E_FNAME': 'Andy', 'E_LNAME': 'Vile', 'SALARY': '53000'}, {'E_FNAME': 'Tom', 'E_LNAME': 'Brand', 'SALARY': '62500'}, {'E_FNAME': 'Jenny', 'E_LNAME': 'Vos', 'SALARY': '61000'}, {'E_FNAME': 'Chris', 'E_LNAME': 'Carter', 'SALARY': '43000'}, {'E_FNAME': 'Bonnie', 'E_LNAME': 'Bays', 'SALARY': '70000'}, {'E_FNAME': 'Alec', 'E_LNAME': 'Best', 'SALARY': '60000'}, {'E_FNAME': 'Sam', 'E_LNAME': 'Snedden', 'SALARY': '48000'}, {'E_FNAME': 'Gregory', 'E_LNAME': 'Laurie', 'SALARY': '90000'}, {'E_FNAME': 'Lisa', 'E_LNAME': 'House', 'SALARY': '85000'}, {'E_FNAME': 'Leonard', 'E_LNAME': 'Moody', 'SALARY': '45000'}, {'E_FNAME': 'Joseph', 'E_LNAME': 'Kirkish', 'SALARY': '95000'}]
+_id:6113e6f28d221a7c216767c9
+DNAME:Sales
+MANAGER_LNAME:8
+MGR_START_DATE:01-JAN-1997
+employees:[{'E_FNAME': 'John', 'E_LNAME': 'James', 'SALARY': '81000'}, {'E_FNAME': 'Bob', 'E_LNAME': 'Bender', 'SALARY': '96000'}, {'E_FNAME': 'Kate', 'E_LNAME': 'King', 'SALARY': '44000'}, {'E_FNAME': 'Lyle', 'E_LNAME': 'Leslie', 'SALARY': '41000'}, {'E_FNAME': 'Billie', 'E_LNAME': 'King', 'SALARY': '38000'}, {'E_FNAME': 'Megan', 'E_LNAME': 'Jones', 'SALARY': '62000'}, {'E_FNAME': 'Jon', 'E_LNAME': 'Kramer', 'SALARY': '41500'}, {'E_FNAME': 'Gerald', 'E_LNAME': 'Small', 'SALARY': '29000'}, {'E_FNAME': 'Arnold', 'E_LNAME': 'Head', 'SALARY': '33000'}, {'E_FNAME': 'Helga', 'E_LNAME': 'Pataki', 'SALARY': '32000'}, {'E_FNAME': 'Naveen', 'E_LNAME': 'Drew', 'SALARY': '34000'}, {'E_FNAME': 'Carl', 'E_LNAME': 'Reedy', 'SALARY': '32000'}, {'E_FNAME': 'Sammy', 'E_LNAME': 'Hall', 'SALARY': '37000'}, {'E_FNAME': 'Red', 'E_LNAME': 'Bacher', 'SALARY': '33500'}, {'E_FNAME': 'Roy', 'E_LNAME': 'Lewallen', 'SALARY': '75500'}, {'E_FNAME': 'Jennifer', 'E_LNAME': 'Joy', 'SALARY': '45000'}, {'E_FNAME': 'Erin', 'E_LNAME': 'Maxfield', 'SALARY': '72000'}, {'E_FNAME': 'Sheldon', 'E_LNAME': 'Cucuou', 'SALARY': '35500'}]
+_id:6113e6f28d221a7c216767ca
+DNAME:HR
+MANAGER_LNAME:9
+MGR_START_DATE:01-FEB-1989
+employees:[{'E_FNAME': 'Jill', 'E_LNAME': 'Jarvis', 'SALARY': '36000'}, {'E_FNAME': 'Ray', 'E_LNAME': 'King', 'SALARY': '44500'}, {'E_FNAME': 'Kim', 'E_LNAME': 'Ted', 'SALARY': '50000'}, {'E_FNAME': 'Juan', 'E_LNAME': 'Linda', 'SALARY': '55000'}, {'E_FNAME': 'willie', 'E_LNAME': 'Mary', 'SALARY': '12000'}, {'E_FNAME': 'Johny', 'E_LNAME': 'Smith', 'SALARY': '65000'}, {'E_FNAME': 'Percy', 'E_LNAME': 'Liang', 'SALARY': '55000'}]
+_id:6113e6f28d221a7c216767cb
+DNAME:Networking
+MANAGER_LNAME:3
+MGR_START_DATE:15-MAY-2009
+employees:[{'E_FNAME': 'Sunil', 'E_LNAME': 'Gupta', 'SALARY': '80000'}]
+_id:6113e6f28d221a7c216767cc
+DNAME:QA
+MANAGER_LNAME:11
+MGR_START_DATE:2-FEB-2010
+employees:[]
+_id:6113ea099e3cc167645e654e
+DNAME:Research
+MANAGER_LNAME:5
+MGR_START_DATE:22-MAY-1978
+employees:[{'E_FNAME': 'Franklin', 'E_LNAME': 'Wong', 'SALARY': '40000'}, {'E_FNAME': 'John', 'E_LNAME': 'Smith', 'SALARY': '30000'}, {'E_FNAME': 'Ramesh', 'E_LNAME': 'Narayan', 'SALARY': '38000'}, {'E_FNAME': 'Joyce', 'E_LNAME': 'English', 'SALARY': '25000'}, {'E_FNAME': 'Michael', 'E_LNAME': 'Morgan', 'SALARY': '73500'}, {'E_FNAME': 'Andrea', 'E_LNAME': 'Sondrini', 'SALARY': '65000'}]
+_id:6113ea099e3cc167645e654f
+DNAME:Administration
+MANAGER_LNAME:4
+MGR_START_DATE:01-JAN-1985
+employees:[{'E_FNAME': 'Jennifer', 'E_LNAME': 'Wallace', 'SALARY': '43000'}, {'E_FNAME': 'Alicia', 'E_LNAME': 'Zelaya', 'SALARY': '25000'}, {'E_FNAME': 'Ahmad', 'E_LNAME': 'Jabbar', 'SALARY': '25000'}, {'E_FNAME': 'Wilson', 'E_LNAME': 'Holmes', 'SALARY': '72500'}, {'E_FNAME': 'Cameron', 'E_LNAME': 'Thirteen', 'SALARY': '80000'}, {'E_FNAME': 'Richard', 'E_LNAME': 'Koelbel', 'SALARY': '85000'}]
+_id:6113ea099e3cc167645e6550
+DNAME:Headquarters
+MANAGER_LNAME:1
+MGR_START_DATE:19-JUN-1971
+employees:[{'E_FNAME': 'James', 'E_LNAME': 'Borg', 'SALARY': '55000'}, {'E_FNAME': 'Jisha', 'E_LNAME': 'Carpenter', 'SALARY': '15000'}]
+_id:6113ea099e3cc167645e6551
+DNAME:Software
+MANAGER_LNAME:6
+MGR_START_DATE:15-MAY-1999
+employees:[{'E_FNAME': 'Jared', 'E_LNAME': 'James', 'SALARY': '85000'}, {'E_FNAME': 'Jon', 'E_LNAME': 'Jones', 'SALARY': '45000'}, {'E_FNAME': 'Justin', 'E_LNAME': 'Mark', 'SALARY': '40000'}, {'E_FNAME': 'Brad', 'E_LNAME': 'Knight', 'SALARY': '44000'}, {'E_FNAME': 'Kim', 'E_LNAME': 'Grace', 'SALARY': '79000'}, {'E_FNAME': 'Jeff', 'E_LNAME': 'Chase', 'SALARY': '44000'}, {'E_FNAME': 'Nandita', 'E_LNAME': 'Ball', 'SALARY': '62000'}, {'E_FNAME': 'John', 'E_LNAME': 'Ed', 'SALARY': '30000'}, {'E_FNAME': 'Jose', 'E_LNAME': 'Barbara', 'SALARY': '35000'}, {'E_FNAME': 'Penny', 'E_LNAME': 'Wolowitz', 'SALARY': '17000'}, {'E_FNAME': 'Debra', 'E_LNAME': 'Hall', 'SALARY': '30000'}, {'E_FNAME': 'Jake', 'E_LNAME': 'Sheen', 'SALARY': '52000'}, {'E_FNAME': 'Cindy', 'E_LNAME': 'Burklow', 'SALARY': '45000'}, {'E_FNAME': 'Zach', 'E_LNAME': 'Geller', 'SALARY': '55000'}, {'E_FNAME': 'Alex', 'E_LNAME': 'Yu', 'SALARY': '50000'}, {'E_FNAME': 'Christina', 'E_LNAME': 'Hisel', 'SALARY': '45000'}]
+_id:6113ea099e3cc167645e6552
+DNAME:Hardware
+MANAGER_LNAME:7
+MGR_START_DATE:15-MAY-1998
+employees:[{'E_FNAME': 'Alex', 'E_LNAME': 'Freed', 'SALARY': '89000'}, {'E_FNAME': 'Evan', 'E_LNAME': 'Wallis', 'SALARY': '92000'}, {'E_FNAME': 'Josh', 'E_LNAME': 'Zell', 'SALARY': '56000'}, {'E_FNAME': 'Andy', 'E_LNAME': 'Vile', 'SALARY': '53000'}, {'E_FNAME': 'Tom', 'E_LNAME': 'Brand', 'SALARY': '62500'}, {'E_FNAME': 'Jenny', 'E_LNAME': 'Vos', 'SALARY': '61000'}, {'E_FNAME': 'Chris', 'E_LNAME': 'Carter', 'SALARY': '43000'}, {'E_FNAME': 'Bonnie', 'E_LNAME': 'Bays', 'SALARY': '70000'}, {'E_FNAME': 'Alec', 'E_LNAME': 'Best', 'SALARY': '60000'}, {'E_FNAME': 'Sam', 'E_LNAME': 'Snedden', 'SALARY': '48000'}, {'E_FNAME': 'Gregory', 'E_LNAME': 'Laurie', 'SALARY': '90000'}, {'E_FNAME': 'Lisa', 'E_LNAME': 'House', 'SALARY': '85000'}, {'E_FNAME': 'Leonard', 'E_LNAME': 'Moody', 'SALARY': '45000'}, {'E_FNAME': 'Joseph', 'E_LNAME': 'Kirkish', 'SALARY': '95000'}]
+_id:6113ea099e3cc167645e6553
+DNAME:Sales
+MANAGER_LNAME:8
+MGR_START_DATE:01-JAN-1997
+employees:[{'E_FNAME': 'John', 'E_LNAME': 'James', 'SALARY': '81000'}, {'E_FNAME': 'Bob', 'E_LNAME': 'Bender', 'SALARY': '96000'}, {'E_FNAME': 'Kate', 'E_LNAME': 'King', 'SALARY': '44000'}, {'E_FNAME': 'Lyle', 'E_LNAME': 'Leslie', 'SALARY': '41000'}, {'E_FNAME': 'Billie', 'E_LNAME': 'King', 'SALARY': '38000'}, {'E_FNAME': 'Megan', 'E_LNAME': 'Jones', 'SALARY': '62000'}, {'E_FNAME': 'Jon', 'E_LNAME': 'Kramer', 'SALARY': '41500'}, {'E_FNAME': 'Gerald', 'E_LNAME': 'Small', 'SALARY': '29000'}, {'E_FNAME': 'Arnold', 'E_LNAME': 'Head', 'SALARY': '33000'}, {'E_FNAME': 'Helga', 'E_LNAME': 'Pataki', 'SALARY': '32000'}, {'E_FNAME': 'Naveen', 'E_LNAME': 'Drew', 'SALARY': '34000'}, {'E_FNAME': 'Carl', 'E_LNAME': 'Reedy', 'SALARY': '32000'}, {'E_FNAME': 'Sammy', 'E_LNAME': 'Hall', 'SALARY': '37000'}, {'E_FNAME': 'Red', 'E_LNAME': 'Bacher', 'SALARY': '33500'}, {'E_FNAME': 'Roy', 'E_LNAME': 'Lewallen', 'SALARY': '75500'}, {'E_FNAME': 'Jennifer', 'E_LNAME': 'Joy', 'SALARY': '45000'}, {'E_FNAME': 'Erin', 'E_LNAME': 'Maxfield', 'SALARY': '72000'}, {'E_FNAME': 'Sheldon', 'E_LNAME': 'Cucuou', 'SALARY': '35500'}]
+_id:6113ea099e3cc167645e6554
+DNAME:HR
+MANAGER_LNAME:9
+MGR_START_DATE:01-FEB-1989
+employees:[{'E_FNAME': 'Jill', 'E_LNAME': 'Jarvis', 'SALARY': '36000'}, {'E_FNAME': 'Ray', 'E_LNAME': 'King', 'SALARY': '44500'}, {'E_FNAME': 'Kim', 'E_LNAME': 'Ted', 'SALARY': '50000'}, {'E_FNAME': 'Juan', 'E_LNAME': 'Linda', 'SALARY': '55000'}, {'E_FNAME': 'willie', 'E_LNAME': 'Mary', 'SALARY': '12000'}, {'E_FNAME': 'Johny', 'E_LNAME': 'Smith', 'SALARY': '65000'}, {'E_FNAME': 'Percy', 'E_LNAME': 'Liang', 'SALARY': '55000'}]
+_id:6113ea099e3cc167645e6555
+DNAME:Networking
+MANAGER_LNAME:3
+MGR_START_DATE:15-MAY-2009
+employees:[{'E_FNAME': 'Sunil', 'E_LNAME': 'Gupta', 'SALARY': '80000'}]
+_id:6113ea099e3cc167645e6556
+DNAME:QA
+MANAGER_LNAME:11
+MGR_START_DATE:2-FEB-2010
+employees:[]

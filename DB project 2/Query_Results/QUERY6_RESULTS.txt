@@ -1,0 +1,16 @@
+[
+  {
+    _id: ObjectId("611457b93a834028fdb13b4b"),
+    DNAME: 'Research',
+    MANAGER_LNAME: 5,
+    MGR_START_DATE: '22-MAY-1978',
+    employees: [
+      { E_FNAME: 'Franklin', E_LNAME: 'Wong', SALARY: '40000' },
+      { E_FNAME: 'John', E_LNAME: 'Smith', SALARY: '30000' },
+      { E_FNAME: 'Ramesh', E_LNAME: 'Narayan', SALARY: '38000' },
+      { E_FNAME: 'Joyce', E_LNAME: 'English', SALARY: '25000' },
+      { E_FNAME: 'Michael', E_LNAME: 'Morgan', SALARY: '73500' },
+      { E_FNAME: 'Andrea', E_LNAME: 'Sondrini', SALARY: '65000' }
+    ]
+  }
+]

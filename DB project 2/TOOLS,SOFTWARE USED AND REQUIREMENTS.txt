@@ -1,0 +1,29 @@
+1001873156 - Sai Rohith Pasala
+1001859165 - Thirumanyam Tushar Kanth Reddy
+
+Programming languages used:
+
+python
+SQL
+Mongo DB queries
+
+Requirements:
+
+python3
+sqlite3 package in python(pip install first to use it later)
+pymongo package in python(pip install first to use it later)
+json package in python
+json2xml package in python(pip install first to use it later)
+
+mongodb compass community server
+
+NOTE: We have used option 1 with a mix of option 3 as required.( we have created the .sql files which stores insert query statements ans stored them in LOCAL_SQL_DUMP.db)
+	
+
+
+Personal choice used tools:
+notepad++ (for editing coulmn labels)
+mongodb shell (TO RUN QUERIES)
+visual studio code(for code implemention)
+datagrip(personal app used to compare and visulise the databases conversion from sql to mongodb)
+

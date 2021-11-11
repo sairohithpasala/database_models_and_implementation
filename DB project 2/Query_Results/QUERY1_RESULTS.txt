@@ -1,0 +1,231 @@
+[
+  {
+    _id: ObjectId("611457ada21e349160e198c2"),
+    PNAME: 'ProductX',
+    PNUMBER: '1',
+    DNAME: 'Research',
+    employees: [
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'John', HOURS: '32.5' },
+      { EMP_LNAME: 'English', EMP_FNAME: 'Joyce', HOURS: '20.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '2.0' },
+      { EMP_LNAME: 'Carpenter', EMP_FNAME: 'Jisha', HOURS: '25.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c3"),
+    PNAME: 'ProductY',
+    PNUMBER: '2',
+    DNAME: 'Research',
+    employees: [
+      { EMP_LNAME: 'Wong', EMP_FNAME: 'Franklin', HOURS: '10.0' },
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'John', HOURS: '7.5' },
+      { EMP_LNAME: 'English', EMP_FNAME: 'Joyce', HOURS: '20.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '2.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c4"),
+    PNAME: 'ProductZ',
+    PNUMBER: '3',
+    DNAME: 'Research',
+    employees: [
+      { EMP_LNAME: 'Wong', EMP_FNAME: 'Franklin', HOURS: '10.0' },
+      { EMP_LNAME: 'Narayan', EMP_FNAME: 'Ramesh', HOURS: '40.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'Johny', HOURS: '10.0' },
+      { EMP_LNAME: 'Sondrini', EMP_FNAME: 'Andrea', HOURS: '45.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c5"),
+    PNAME: 'Computerization',
+    PNUMBER: '10',
+    DNAME: 'Administration',
+    employees: [
+      { EMP_LNAME: 'Wong', EMP_FNAME: 'Franklin', HOURS: '10.0' },
+      { EMP_LNAME: 'Zelaya', EMP_FNAME: 'Alicia', HOURS: '10.0' },
+      { EMP_LNAME: 'Jabbar', EMP_FNAME: 'Ahmad', HOURS: '35.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Sheen', EMP_FNAME: 'Jake', HOURS: '25.0' },
+      { EMP_LNAME: 'Koelbel', EMP_FNAME: 'Richard', HOURS: '35.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c6"),
+    PNAME: 'Reorganization',
+    PNUMBER: '20',
+    DNAME: 'Headquarters',
+    employees: [
+      { EMP_LNAME: 'Borg', EMP_FNAME: 'James', HOURS: '5.0' },
+      { EMP_LNAME: 'Wong', EMP_FNAME: 'Franklin', HOURS: '10.0' },
+      { EMP_LNAME: 'Wallace', EMP_FNAME: 'Jennifer', HOURS: '15.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'Johny', HOURS: '10.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c7"),
+    PNAME: 'Newbenefits',
+    PNUMBER: '30',
+    DNAME: 'Administration',
+    employees: [
+      { EMP_LNAME: 'Wallace', EMP_FNAME: 'Jennifer', HOURS: '20.0' },
+      { EMP_LNAME: 'Zelaya', EMP_FNAME: 'Alicia', HOURS: '30.0' },
+      { EMP_LNAME: 'Jabbar', EMP_FNAME: 'Ahmad', HOURS: '5.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Smith', EMP_FNAME: 'Johny', HOURS: '25.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c8"),
+    PNAME: 'OperatingSystem',
+    PNUMBER: '61',
+    DNAME: 'Software',
+    employees: [
+      { EMP_LNAME: 'James', EMP_FNAME: 'Jared', HOURS: '40.0' },
+      { EMP_LNAME: 'Jones', EMP_FNAME: 'Jon', HOURS: '40.0' },
+      { EMP_LNAME: 'Mark', EMP_FNAME: 'Justin', HOURS: '40.0' },
+      { EMP_LNAME: 'Knight', EMP_FNAME: 'Brad', HOURS: '40.0' },
+      { EMP_LNAME: 'Small', EMP_FNAME: 'Gerald', HOURS: '40.0' },
+      { EMP_LNAME: 'Drew', EMP_FNAME: 'Naveen', HOURS: '40.0' },
+      { EMP_LNAME: 'Reedy', EMP_FNAME: 'Carl', HOURS: '40.0' },
+      { EMP_LNAME: 'Hall', EMP_FNAME: 'Sammy', HOURS: '40.0' },
+      { EMP_LNAME: 'Bacher', EMP_FNAME: 'Red', HOURS: '30.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Hisel', EMP_FNAME: 'Christina', HOURS: '4.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198c9"),
+    PNAME: 'DatabaseSystems',
+    PNUMBER: '62',
+    DNAME: 'Software',
+    employees: [
+      { EMP_LNAME: 'Wallis', EMP_FNAME: 'Evan', HOURS: '40.0' },
+      { EMP_LNAME: 'Zell', EMP_FNAME: 'Josh', HOURS: '48.0' },
+      { EMP_LNAME: 'Vile', EMP_FNAME: 'Andy', HOURS: '40.0' },
+      { EMP_LNAME: 'Brand', EMP_FNAME: 'Tom', HOURS: '40.0' },
+      { EMP_LNAME: 'Vos', EMP_FNAME: 'Jenny', HOURS: '40.0' },
+      { EMP_LNAME: 'Carter', EMP_FNAME: 'Chris', HOURS: '40.0' },
+      { EMP_LNAME: 'Head', EMP_FNAME: 'Arnold', HOURS: '40.0' },
+      { EMP_LNAME: 'Bacher', EMP_FNAME: 'Red', HOURS: '10.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Ted', EMP_FNAME: 'Kim', HOURS: '25.0' },
+      { EMP_LNAME: 'Maxfield', EMP_FNAME: 'Erin', HOURS: '20.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198ca"),
+    PNAME: 'Middleware',
+    PNUMBER: '63',
+    DNAME: 'Software',
+    employees: [
+      { EMP_LNAME: 'Grace', EMP_FNAME: 'Kim', HOURS: '40.0' },
+      { EMP_LNAME: 'Chase', EMP_FNAME: 'Jeff', HOURS: '46.0' },
+      { EMP_LNAME: 'Pataki', EMP_FNAME: 'Helga', HOURS: '40.0' },
+      { EMP_LNAME: 'Bacher', EMP_FNAME: 'Red', HOURS: '10.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '4.0' },
+      { EMP_LNAME: 'Joy', EMP_FNAME: 'Jennifer', HOURS: '20.0' },
+      { EMP_LNAME: 'Barbara', EMP_FNAME: 'Jose', HOURS: '40.0' },
+      { EMP_LNAME: 'Laurie', EMP_FNAME: 'Gregory', HOURS: '25.0' },
+      { EMP_LNAME: 'Burklow', EMP_FNAME: 'Cindy', HOURS: '25.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198cb"),
+    PNAME: 'Advertizing',
+    PNUMBER: '70',
+    DNAME: 'HR',
+    employees: [
+      { EMP_LNAME: 'Jones', EMP_FNAME: 'Megan', HOURS: '40.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '2.0' },
+      { EMP_LNAME: 'Maxfield', EMP_FNAME: 'Erin', HOURS: '20.0' },
+      { EMP_LNAME: 'Liang', EMP_FNAME: 'Percy', HOURS: '10.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198cc"),
+    PNAME: 'InkjetPrinters',
+    PNUMBER: '91',
+    DNAME: 'Hardware',
+    employees: [
+      { EMP_LNAME: 'Freed', EMP_FNAME: 'Alex', HOURS: '40.0' },
+      { EMP_LNAME: 'Bays', EMP_FNAME: 'Bonnie', HOURS: '40.0' },
+      { EMP_LNAME: 'Best', EMP_FNAME: 'Alec', HOURS: '40.0' },
+      { EMP_LNAME: 'Snedden', EMP_FNAME: 'Sam', HOURS: '40.0' },
+      { EMP_LNAME: 'Jarvis', EMP_FNAME: 'Jill', HOURS: '40.0' },
+      { EMP_LNAME: 'Leslie', EMP_FNAME: 'Lyle', HOURS: '40.0' },
+      { EMP_LNAME: 'King', EMP_FNAME: 'Billie', HOURS: '40.0' },
+      { EMP_LNAME: 'King', EMP_FNAME: 'Ray', HOURS: '40.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '2.0' },
+      { EMP_LNAME: 'Ed', EMP_FNAME: 'John', HOURS: '10.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198cd"),
+    PNAME: 'LaserPrinters',
+    PNUMBER: '92',
+    DNAME: 'Hardware',
+    employees: [
+      { EMP_LNAME: 'James', EMP_FNAME: 'John', HOURS: '40.0' },
+      { EMP_LNAME: 'Ball', EMP_FNAME: 'Nandita', HOURS: '44.0' },
+      { EMP_LNAME: 'Kramer', EMP_FNAME: 'Jon', HOURS: '40.0' },
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '1.0' },
+      { EMP_LNAME: 'Kirkish', EMP_FNAME: 'Joseph', HOURS: '33.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198ce"),
+    PNAME: 'Human1',
+    PNUMBER: '95',
+    DNAME: 'HR',
+    employees: [
+      { EMP_LNAME: 'Lewallen', EMP_FNAME: 'Roy', HOURS: '3.0' },
+      { EMP_LNAME: 'Linda', EMP_FNAME: 'Juan', HOURS: '40.0' },
+      { EMP_LNAME: 'Mary', EMP_FNAME: 'willie', HOURS: '35.0' },
+      { EMP_LNAME: 'Cucuou', EMP_FNAME: 'Sheldon', HOURS: '23.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198cf"),
+    PNAME: 'SearchEngine',
+    PNUMBER: '22',
+    DNAME: 'Software',
+    employees: [
+      { EMP_LNAME: 'Wolowitz', EMP_FNAME: 'Penny', HOURS: '4.0' },
+      { EMP_LNAME: 'Geller', EMP_FNAME: 'Zach', HOURS: '30.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198d0"),
+    PNAME: 'MotherBoard',
+    PNUMBER: '29',
+    DNAME: 'Hardware',
+    employees: [
+      { EMP_LNAME: 'House', EMP_FNAME: 'Lisa', HOURS: '10.0' },
+      { EMP_LNAME: 'Moody', EMP_FNAME: 'Leonard', HOURS: '15.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198d1"),
+    PNAME: 'EntityAnnot',
+    PNUMBER: '4',
+    DNAME: 'Research',
+    employees: [
+      { EMP_LNAME: 'Morgan', EMP_FNAME: 'Michael', HOURS: '11.0' },
+      { EMP_LNAME: 'Holmes', EMP_FNAME: 'Wilson', HOURS: '5.0' },
+      { EMP_LNAME: 'Thirteen', EMP_FNAME: 'Cameron', HOURS: '45.0' }
+    ]
+  },
+  {
+    _id: ObjectId("611457aea21e349160e198d2"),
+    PNAME: 'ConfigMgmt',
+    PNUMBER: '11',
+    DNAME: 'Software',
+    employees: [
+      { EMP_LNAME: 'Hall', EMP_FNAME: 'Debra', HOURS: '20.0' },
+      { EMP_LNAME: 'Sheen', EMP_FNAME: 'Jake', HOURS: '25.0' },
+      { EMP_LNAME: 'Holmes', EMP_FNAME: 'Wilson', HOURS: '20.0' }
+    ]
+  }
+]

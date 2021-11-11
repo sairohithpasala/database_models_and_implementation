@@ -1,0 +1,442 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b4b</key>
+		</_id>
+		<DNAME type="str">Research</DNAME>
+		<MANAGER_LNAME type="int">5</MANAGER_LNAME>
+		<MGR_START_DATE type="str">22-MAY-1978</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Franklin</E_FNAME>
+				<E_LNAME type="str">Wong</E_LNAME>
+				<SALARY type="str">40000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">John</E_FNAME>
+				<E_LNAME type="str">Smith</E_LNAME>
+				<SALARY type="str">30000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Ramesh</E_FNAME>
+				<E_LNAME type="str">Narayan</E_LNAME>
+				<SALARY type="str">38000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Joyce</E_FNAME>
+				<E_LNAME type="str">English</E_LNAME>
+				<SALARY type="str">25000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Michael</E_FNAME>
+				<E_LNAME type="str">Morgan</E_LNAME>
+				<SALARY type="str">73500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Andrea</E_FNAME>
+				<E_LNAME type="str">Sondrini</E_LNAME>
+				<SALARY type="str">65000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b4c</key>
+		</_id>
+		<DNAME type="str">Administration</DNAME>
+		<MANAGER_LNAME type="int">4</MANAGER_LNAME>
+		<MGR_START_DATE type="str">01-JAN-1985</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Jennifer</E_FNAME>
+				<E_LNAME type="str">Wallace</E_LNAME>
+				<SALARY type="str">43000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Alicia</E_FNAME>
+				<E_LNAME type="str">Zelaya</E_LNAME>
+				<SALARY type="str">25000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Ahmad</E_FNAME>
+				<E_LNAME type="str">Jabbar</E_LNAME>
+				<SALARY type="str">25000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Wilson</E_FNAME>
+				<E_LNAME type="str">Holmes</E_LNAME>
+				<SALARY type="str">72500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Cameron</E_FNAME>
+				<E_LNAME type="str">Thirteen</E_LNAME>
+				<SALARY type="str">80000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Richard</E_FNAME>
+				<E_LNAME type="str">Koelbel</E_LNAME>
+				<SALARY type="str">85000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b4d</key>
+		</_id>
+		<DNAME type="str">Headquarters</DNAME>
+		<MANAGER_LNAME type="int">1</MANAGER_LNAME>
+		<MGR_START_DATE type="str">19-JUN-1971</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">James</E_FNAME>
+				<E_LNAME type="str">Borg</E_LNAME>
+				<SALARY type="str">55000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jisha</E_FNAME>
+				<E_LNAME type="str">Carpenter</E_LNAME>
+				<SALARY type="str">15000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b4e</key>
+		</_id>
+		<DNAME type="str">Software</DNAME>
+		<MANAGER_LNAME type="int">6</MANAGER_LNAME>
+		<MGR_START_DATE type="str">15-MAY-1999</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Jared</E_FNAME>
+				<E_LNAME type="str">James</E_LNAME>
+				<SALARY type="str">85000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jon</E_FNAME>
+				<E_LNAME type="str">Jones</E_LNAME>
+				<SALARY type="str">45000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Justin</E_FNAME>
+				<E_LNAME type="str">Mark</E_LNAME>
+				<SALARY type="str">40000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Brad</E_FNAME>
+				<E_LNAME type="str">Knight</E_LNAME>
+				<SALARY type="str">44000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Kim</E_FNAME>
+				<E_LNAME type="str">Grace</E_LNAME>
+				<SALARY type="str">79000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jeff</E_FNAME>
+				<E_LNAME type="str">Chase</E_LNAME>
+				<SALARY type="str">44000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Nandita</E_FNAME>
+				<E_LNAME type="str">Ball</E_LNAME>
+				<SALARY type="str">62000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">John</E_FNAME>
+				<E_LNAME type="str">Ed</E_LNAME>
+				<SALARY type="str">30000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jose</E_FNAME>
+				<E_LNAME type="str">Barbara</E_LNAME>
+				<SALARY type="str">35000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Penny</E_FNAME>
+				<E_LNAME type="str">Wolowitz</E_LNAME>
+				<SALARY type="str">17000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Debra</E_FNAME>
+				<E_LNAME type="str">Hall</E_LNAME>
+				<SALARY type="str">30000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jake</E_FNAME>
+				<E_LNAME type="str">Sheen</E_LNAME>
+				<SALARY type="str">52000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Cindy</E_FNAME>
+				<E_LNAME type="str">Burklow</E_LNAME>
+				<SALARY type="str">45000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Zach</E_FNAME>
+				<E_LNAME type="str">Geller</E_LNAME>
+				<SALARY type="str">55000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Alex</E_FNAME>
+				<E_LNAME type="str">Yu</E_LNAME>
+				<SALARY type="str">50000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Christina</E_FNAME>
+				<E_LNAME type="str">Hisel</E_LNAME>
+				<SALARY type="str">45000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b4f</key>
+		</_id>
+		<DNAME type="str">Hardware</DNAME>
+		<MANAGER_LNAME type="int">7</MANAGER_LNAME>
+		<MGR_START_DATE type="str">15-MAY-1998</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Alex</E_FNAME>
+				<E_LNAME type="str">Freed</E_LNAME>
+				<SALARY type="str">89000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Evan</E_FNAME>
+				<E_LNAME type="str">Wallis</E_LNAME>
+				<SALARY type="str">92000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Josh</E_FNAME>
+				<E_LNAME type="str">Zell</E_LNAME>
+				<SALARY type="str">56000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Andy</E_FNAME>
+				<E_LNAME type="str">Vile</E_LNAME>
+				<SALARY type="str">53000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Tom</E_FNAME>
+				<E_LNAME type="str">Brand</E_LNAME>
+				<SALARY type="str">62500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jenny</E_FNAME>
+				<E_LNAME type="str">Vos</E_LNAME>
+				<SALARY type="str">61000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Chris</E_FNAME>
+				<E_LNAME type="str">Carter</E_LNAME>
+				<SALARY type="str">43000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Bonnie</E_FNAME>
+				<E_LNAME type="str">Bays</E_LNAME>
+				<SALARY type="str">70000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Alec</E_FNAME>
+				<E_LNAME type="str">Best</E_LNAME>
+				<SALARY type="str">60000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Sam</E_FNAME>
+				<E_LNAME type="str">Snedden</E_LNAME>
+				<SALARY type="str">48000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Gregory</E_FNAME>
+				<E_LNAME type="str">Laurie</E_LNAME>
+				<SALARY type="str">90000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Lisa</E_FNAME>
+				<E_LNAME type="str">House</E_LNAME>
+				<SALARY type="str">85000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Leonard</E_FNAME>
+				<E_LNAME type="str">Moody</E_LNAME>
+				<SALARY type="str">45000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Joseph</E_FNAME>
+				<E_LNAME type="str">Kirkish</E_LNAME>
+				<SALARY type="str">95000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b50</key>
+		</_id>
+		<DNAME type="str">Sales</DNAME>
+		<MANAGER_LNAME type="int">8</MANAGER_LNAME>
+		<MGR_START_DATE type="str">01-JAN-1997</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">John</E_FNAME>
+				<E_LNAME type="str">James</E_LNAME>
+				<SALARY type="str">81000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Bob</E_FNAME>
+				<E_LNAME type="str">Bender</E_LNAME>
+				<SALARY type="str">96000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Kate</E_FNAME>
+				<E_LNAME type="str">King</E_LNAME>
+				<SALARY type="str">44000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Lyle</E_FNAME>
+				<E_LNAME type="str">Leslie</E_LNAME>
+				<SALARY type="str">41000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Billie</E_FNAME>
+				<E_LNAME type="str">King</E_LNAME>
+				<SALARY type="str">38000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Megan</E_FNAME>
+				<E_LNAME type="str">Jones</E_LNAME>
+				<SALARY type="str">62000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jon</E_FNAME>
+				<E_LNAME type="str">Kramer</E_LNAME>
+				<SALARY type="str">41500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Gerald</E_FNAME>
+				<E_LNAME type="str">Small</E_LNAME>
+				<SALARY type="str">29000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Arnold</E_FNAME>
+				<E_LNAME type="str">Head</E_LNAME>
+				<SALARY type="str">33000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Helga</E_FNAME>
+				<E_LNAME type="str">Pataki</E_LNAME>
+				<SALARY type="str">32000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Naveen</E_FNAME>
+				<E_LNAME type="str">Drew</E_LNAME>
+				<SALARY type="str">34000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Carl</E_FNAME>
+				<E_LNAME type="str">Reedy</E_LNAME>
+				<SALARY type="str">32000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Sammy</E_FNAME>
+				<E_LNAME type="str">Hall</E_LNAME>
+				<SALARY type="str">37000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Red</E_FNAME>
+				<E_LNAME type="str">Bacher</E_LNAME>
+				<SALARY type="str">33500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Roy</E_FNAME>
+				<E_LNAME type="str">Lewallen</E_LNAME>
+				<SALARY type="str">75500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Jennifer</E_FNAME>
+				<E_LNAME type="str">Joy</E_LNAME>
+				<SALARY type="str">45000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Erin</E_FNAME>
+				<E_LNAME type="str">Maxfield</E_LNAME>
+				<SALARY type="str">72000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Sheldon</E_FNAME>
+				<E_LNAME type="str">Cucuou</E_LNAME>
+				<SALARY type="str">35500</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b51</key>
+		</_id>
+		<DNAME type="str">HR</DNAME>
+		<MANAGER_LNAME type="int">9</MANAGER_LNAME>
+		<MGR_START_DATE type="str">01-FEB-1989</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Jill</E_FNAME>
+				<E_LNAME type="str">Jarvis</E_LNAME>
+				<SALARY type="str">36000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Ray</E_FNAME>
+				<E_LNAME type="str">King</E_LNAME>
+				<SALARY type="str">44500</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Kim</E_FNAME>
+				<E_LNAME type="str">Ted</E_LNAME>
+				<SALARY type="str">50000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Juan</E_FNAME>
+				<E_LNAME type="str">Linda</E_LNAME>
+				<SALARY type="str">55000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">willie</E_FNAME>
+				<E_LNAME type="str">Mary</E_LNAME>
+				<SALARY type="str">12000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Johny</E_FNAME>
+				<E_LNAME type="str">Smith</E_LNAME>
+				<SALARY type="str">65000</SALARY>
+			</item>
+			<item type="dict">
+				<E_FNAME type="str">Percy</E_FNAME>
+				<E_LNAME type="str">Liang</E_LNAME>
+				<SALARY type="str">55000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b52</key>
+		</_id>
+		<DNAME type="str">Networking</DNAME>
+		<MANAGER_LNAME type="int">3</MANAGER_LNAME>
+		<MGR_START_DATE type="str">15-MAY-2009</MGR_START_DATE>
+		<employees type="list">
+			<item type="dict">
+				<E_FNAME type="str">Sunil</E_FNAME>
+				<E_LNAME type="str">Gupta</E_LNAME>
+				<SALARY type="str">80000</SALARY>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457b93a834028fdb13b53</key>
+		</_id>
+		<DNAME type="str">QA</DNAME>
+		<MANAGER_LNAME type="int">11</MANAGER_LNAME>
+		<MGR_START_DATE type="str">2-FEB-2010</MGR_START_DATE>
+		<employees type="list"/>
+	</item>
+</all>

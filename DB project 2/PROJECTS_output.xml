@@ -1,0 +1,638 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457ada21e349160e198c2</key>
+		</_id>
+		<PNAME type="str">ProductX</PNAME>
+		<PNUMBER type="str">1</PNUMBER>
+		<DNAME type="str">Research</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Smith</EMP_LNAME>
+				<EMP_FNAME type="str">John</EMP_FNAME>
+				<HOURS type="str">32.5</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">English</EMP_LNAME>
+				<EMP_FNAME type="str">Joyce</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">2.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Carpenter</EMP_LNAME>
+				<EMP_FNAME type="str">Jisha</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c3</key>
+		</_id>
+		<PNAME type="str">ProductY</PNAME>
+		<PNUMBER type="str">2</PNUMBER>
+		<DNAME type="str">Research</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wong</EMP_LNAME>
+				<EMP_FNAME type="str">Franklin</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Smith</EMP_LNAME>
+				<EMP_FNAME type="str">John</EMP_FNAME>
+				<HOURS type="str">7.5</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">English</EMP_LNAME>
+				<EMP_FNAME type="str">Joyce</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">2.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c4</key>
+		</_id>
+		<PNAME type="str">ProductZ</PNAME>
+		<PNUMBER type="str">3</PNUMBER>
+		<DNAME type="str">Research</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wong</EMP_LNAME>
+				<EMP_FNAME type="str">Franklin</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Narayan</EMP_LNAME>
+				<EMP_FNAME type="str">Ramesh</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Smith</EMP_LNAME>
+				<EMP_FNAME type="str">Johny</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Sondrini</EMP_LNAME>
+				<EMP_FNAME type="str">Andrea</EMP_FNAME>
+				<HOURS type="str">45.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c5</key>
+		</_id>
+		<PNAME type="str">Computerization</PNAME>
+		<PNUMBER type="str">10</PNUMBER>
+		<DNAME type="str">Administration</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wong</EMP_LNAME>
+				<EMP_FNAME type="str">Franklin</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Zelaya</EMP_LNAME>
+				<EMP_FNAME type="str">Alicia</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Jabbar</EMP_LNAME>
+				<EMP_FNAME type="str">Ahmad</EMP_FNAME>
+				<HOURS type="str">35.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Sheen</EMP_LNAME>
+				<EMP_FNAME type="str">Jake</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Koelbel</EMP_LNAME>
+				<EMP_FNAME type="str">Richard</EMP_FNAME>
+				<HOURS type="str">35.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c6</key>
+		</_id>
+		<PNAME type="str">Reorganization</PNAME>
+		<PNUMBER type="str">20</PNUMBER>
+		<DNAME type="str">Headquarters</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Borg</EMP_LNAME>
+				<EMP_FNAME type="str">James</EMP_FNAME>
+				<HOURS type="str">5.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Wong</EMP_LNAME>
+				<EMP_FNAME type="str">Franklin</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Wallace</EMP_LNAME>
+				<EMP_FNAME type="str">Jennifer</EMP_FNAME>
+				<HOURS type="str">15.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Smith</EMP_LNAME>
+				<EMP_FNAME type="str">Johny</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c7</key>
+		</_id>
+		<PNAME type="str">Newbenefits</PNAME>
+		<PNUMBER type="str">30</PNUMBER>
+		<DNAME type="str">Administration</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wallace</EMP_LNAME>
+				<EMP_FNAME type="str">Jennifer</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Zelaya</EMP_LNAME>
+				<EMP_FNAME type="str">Alicia</EMP_FNAME>
+				<HOURS type="str">30.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Jabbar</EMP_LNAME>
+				<EMP_FNAME type="str">Ahmad</EMP_FNAME>
+				<HOURS type="str">5.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Smith</EMP_LNAME>
+				<EMP_FNAME type="str">Johny</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c8</key>
+		</_id>
+		<PNAME type="str">OperatingSystem</PNAME>
+		<PNUMBER type="str">61</PNUMBER>
+		<DNAME type="str">Software</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">James</EMP_LNAME>
+				<EMP_FNAME type="str">Jared</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Jones</EMP_LNAME>
+				<EMP_FNAME type="str">Jon</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Mark</EMP_LNAME>
+				<EMP_FNAME type="str">Justin</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Knight</EMP_LNAME>
+				<EMP_FNAME type="str">Brad</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Small</EMP_LNAME>
+				<EMP_FNAME type="str">Gerald</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Drew</EMP_LNAME>
+				<EMP_FNAME type="str">Naveen</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Reedy</EMP_LNAME>
+				<EMP_FNAME type="str">Carl</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Hall</EMP_LNAME>
+				<EMP_FNAME type="str">Sammy</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Bacher</EMP_LNAME>
+				<EMP_FNAME type="str">Red</EMP_FNAME>
+				<HOURS type="str">30.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Hisel</EMP_LNAME>
+				<EMP_FNAME type="str">Christina</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198c9</key>
+		</_id>
+		<PNAME type="str">DatabaseSystems</PNAME>
+		<PNUMBER type="str">62</PNUMBER>
+		<DNAME type="str">Software</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wallis</EMP_LNAME>
+				<EMP_FNAME type="str">Evan</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Zell</EMP_LNAME>
+				<EMP_FNAME type="str">Josh</EMP_FNAME>
+				<HOURS type="str">48.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Vile</EMP_LNAME>
+				<EMP_FNAME type="str">Andy</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Brand</EMP_LNAME>
+				<EMP_FNAME type="str">Tom</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Vos</EMP_LNAME>
+				<EMP_FNAME type="str">Jenny</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Carter</EMP_LNAME>
+				<EMP_FNAME type="str">Chris</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Head</EMP_LNAME>
+				<EMP_FNAME type="str">Arnold</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Bacher</EMP_LNAME>
+				<EMP_FNAME type="str">Red</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Ted</EMP_LNAME>
+				<EMP_FNAME type="str">Kim</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Maxfield</EMP_LNAME>
+				<EMP_FNAME type="str">Erin</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198ca</key>
+		</_id>
+		<PNAME type="str">Middleware</PNAME>
+		<PNUMBER type="str">63</PNUMBER>
+		<DNAME type="str">Software</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Grace</EMP_LNAME>
+				<EMP_FNAME type="str">Kim</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Chase</EMP_LNAME>
+				<EMP_FNAME type="str">Jeff</EMP_FNAME>
+				<HOURS type="str">46.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Pataki</EMP_LNAME>
+				<EMP_FNAME type="str">Helga</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Bacher</EMP_LNAME>
+				<EMP_FNAME type="str">Red</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Joy</EMP_LNAME>
+				<EMP_FNAME type="str">Jennifer</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Barbara</EMP_LNAME>
+				<EMP_FNAME type="str">Jose</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Laurie</EMP_LNAME>
+				<EMP_FNAME type="str">Gregory</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Burklow</EMP_LNAME>
+				<EMP_FNAME type="str">Cindy</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198cb</key>
+		</_id>
+		<PNAME type="str">Advertizing</PNAME>
+		<PNUMBER type="str">70</PNUMBER>
+		<DNAME type="str">HR</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Jones</EMP_LNAME>
+				<EMP_FNAME type="str">Megan</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">2.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Maxfield</EMP_LNAME>
+				<EMP_FNAME type="str">Erin</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Liang</EMP_LNAME>
+				<EMP_FNAME type="str">Percy</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198cc</key>
+		</_id>
+		<PNAME type="str">InkjetPrinters</PNAME>
+		<PNUMBER type="str">91</PNUMBER>
+		<DNAME type="str">Hardware</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Freed</EMP_LNAME>
+				<EMP_FNAME type="str">Alex</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Bays</EMP_LNAME>
+				<EMP_FNAME type="str">Bonnie</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Best</EMP_LNAME>
+				<EMP_FNAME type="str">Alec</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Snedden</EMP_LNAME>
+				<EMP_FNAME type="str">Sam</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Jarvis</EMP_LNAME>
+				<EMP_FNAME type="str">Jill</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Leslie</EMP_LNAME>
+				<EMP_FNAME type="str">Lyle</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">King</EMP_LNAME>
+				<EMP_FNAME type="str">Billie</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">King</EMP_LNAME>
+				<EMP_FNAME type="str">Ray</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">2.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Ed</EMP_LNAME>
+				<EMP_FNAME type="str">John</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198cd</key>
+		</_id>
+		<PNAME type="str">LaserPrinters</PNAME>
+		<PNUMBER type="str">92</PNUMBER>
+		<DNAME type="str">Hardware</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">James</EMP_LNAME>
+				<EMP_FNAME type="str">John</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Ball</EMP_LNAME>
+				<EMP_FNAME type="str">Nandita</EMP_FNAME>
+				<HOURS type="str">44.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Kramer</EMP_LNAME>
+				<EMP_FNAME type="str">Jon</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">1.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Kirkish</EMP_LNAME>
+				<EMP_FNAME type="str">Joseph</EMP_FNAME>
+				<HOURS type="str">33.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198ce</key>
+		</_id>
+		<PNAME type="str">Human1</PNAME>
+		<PNUMBER type="str">95</PNUMBER>
+		<DNAME type="str">HR</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Lewallen</EMP_LNAME>
+				<EMP_FNAME type="str">Roy</EMP_FNAME>
+				<HOURS type="str">3.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Linda</EMP_LNAME>
+				<EMP_FNAME type="str">Juan</EMP_FNAME>
+				<HOURS type="str">40.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Mary</EMP_LNAME>
+				<EMP_FNAME type="str">willie</EMP_FNAME>
+				<HOURS type="str">35.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Cucuou</EMP_LNAME>
+				<EMP_FNAME type="str">Sheldon</EMP_FNAME>
+				<HOURS type="str">23.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198cf</key>
+		</_id>
+		<PNAME type="str">SearchEngine</PNAME>
+		<PNUMBER type="str">22</PNUMBER>
+		<DNAME type="str">Software</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Wolowitz</EMP_LNAME>
+				<EMP_FNAME type="str">Penny</EMP_FNAME>
+				<HOURS type="str">4.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Geller</EMP_LNAME>
+				<EMP_FNAME type="str">Zach</EMP_FNAME>
+				<HOURS type="str">30.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198d0</key>
+		</_id>
+		<PNAME type="str">MotherBoard</PNAME>
+		<PNUMBER type="str">29</PNUMBER>
+		<DNAME type="str">Hardware</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">House</EMP_LNAME>
+				<EMP_FNAME type="str">Lisa</EMP_FNAME>
+				<HOURS type="str">10.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Moody</EMP_LNAME>
+				<EMP_FNAME type="str">Leonard</EMP_FNAME>
+				<HOURS type="str">15.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198d1</key>
+		</_id>
+		<PNAME type="str">EntityAnnot</PNAME>
+		<PNUMBER type="str">4</PNUMBER>
+		<DNAME type="str">Research</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Morgan</EMP_LNAME>
+				<EMP_FNAME type="str">Michael</EMP_FNAME>
+				<HOURS type="str">11.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Holmes</EMP_LNAME>
+				<EMP_FNAME type="str">Wilson</EMP_FNAME>
+				<HOURS type="str">5.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Thirteen</EMP_LNAME>
+				<EMP_FNAME type="str">Cameron</EMP_FNAME>
+				<HOURS type="str">45.0</HOURS>
+			</item>
+		</employees>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">611457aea21e349160e198d2</key>
+		</_id>
+		<PNAME type="str">ConfigMgmt</PNAME>
+		<PNUMBER type="str">11</PNUMBER>
+		<DNAME type="str">Software</DNAME>
+		<employees type="list">
+			<item type="dict">
+				<EMP_LNAME type="str">Hall</EMP_LNAME>
+				<EMP_FNAME type="str">Debra</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Sheen</EMP_LNAME>
+				<EMP_FNAME type="str">Jake</EMP_FNAME>
+				<HOURS type="str">25.0</HOURS>
+			</item>
+			<item type="dict">
+				<EMP_LNAME type="str">Holmes</EMP_LNAME>
+				<EMP_FNAME type="str">Wilson</EMP_FNAME>
+				<HOURS type="str">20.0</HOURS>
+			</item>
+		</employees>
+	</item>
+</all>
